@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/uproj/CXY-homework/Lab6/install
+
+Name: turtlerace
+Description: Description of turtlerace
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

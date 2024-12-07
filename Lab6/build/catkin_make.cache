@@ -1,0 +1,2 @@
+turtlerace
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/uproj/CXY-homework/Lab6/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/uproj/CXY-homework/Lab6/install -G Unix Makefiles
